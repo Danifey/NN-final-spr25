@@ -2,7 +2,7 @@
 
 ## Research insights
 
-We will be working on a classification model for video in order to identify animal behaviors.
+We will be working on a CNN classification model for video in order to identify animal behaviors.
 
 ## Research Insights
 
